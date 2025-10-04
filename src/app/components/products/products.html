@@ -1,0 +1,23 @@
+<div class="products-container">
+  <h2 class="title">Our Products</h2>
+
+    <div class="filter-box">
+    <select id="category" [value]="selectedCategory()" #categorySelect (change)="changeCategory(categorySelect.value)">
+      <option value="all">All</option>
+      <option value="electronics">Electronics</option>
+      <option value="laptops">Laptops</option>
+      <option value="accessories">Accessories</option>
+      <option value="phones">Phones</option>
+      <option value="monitors">Monitors</option>
+    </select>
+  </div>
+
+  <div class="grid">
+    <div class="card" *ngFor="let product of filteredProducts()">
+      <img [src]="product.image" [alt]="product.title" />
+      <h3>{{ product.title }}</h3>
+      <p class="price">{{ product.price | currency:'USD':'symbol'}}</p>
+      <button class="btn" (click)="addToCart(product)">Add to Cart</button>
+    </div>
+  </div>
+</div>
