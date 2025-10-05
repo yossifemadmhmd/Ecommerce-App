@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ecommerce-App
 Ecommerce-App made using Angular 
 
