@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "id": 1,
       "title": "Laptop Backpack",
@@ -241,4 +240,3 @@
       }
     }
   ]
-}
