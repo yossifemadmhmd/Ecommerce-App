@@ -1,242 +1,242 @@
 [
-    {
-      "id": 1,
-      "title": "Laptop Backpack",
-      "price": 34.99,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "accessories",
-      "image": "/assets/images/Laptop_Backpack.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 2,
-      "title": "ASUS Laptop",
-      "price": 49.99,
-      "description": "A lightweight laptop suitable for all your computing needs. Features a sleek design, long battery life, and high-resolution display.",
-      "category": "laptops",
-      "image": "/assets/images/Asus_Laptop.jpg",
-      "rating": {
-        "rate": 4.1,
-        "count": 259
-      }
-    },
-    {
-      "id": 3,
-      "title": "Lenovo Laptop",
-      "price": 55.99,
-      "description": "The Lenovo IdeaPad 3 is a budget-friendly laptop that offers solid performance for everyday tasks. It features a 15.6-inch display, AMD Ryzen processor, and ample storage.",
-      "category": "laptops",
-      "image": "/assets/images/Lenovo_Laptop.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 500
-      }
-    },
-    {
-      "id": 4,
-      "title": "Ex SSD",
-      "price": 15.99,
-      "description": "USB 3.0 Portable External Hard Drive; 2.5 Inch, 1TB, Black",
-      "category": "electronics",
-      "image": "/assets/images/Ex-SSD.jpg",
-      "rating": {
-        "rate": 2.1,
-        "count": 430
-      }
-    },
-    {
-      "id": 5,
-      "title": "Mouse",
-      "price": 10.99,
-      "description": "Wireless Mouse for Laptop, Computer",
-      "category": "electronics",
-      "image": "/assets/images/Mouse.jpg",
-      "rating": {
-        "rate": 4.6,
-        "count": 400
-      }
-    },
-    {
-      "id": 6,
-      "title": "Keybord",
-      "price": 29.99,
-      "description": " Mechanical Gaming Keyboard, RGB Backlit Wired Keyboard",
-      "category": "electronics",
-      "image": "/assets/images/Keybord.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 70
-      }
-    },
-    {
-      "id": 7,
-      "title": "Pixel9-Pro",
-      "price": 799,
-      "description": "The Pixel 9 Pro is a premium smartphone with a stunning display, powerful camera system, and smooth performance.",
-      "category": "phones",
-      "image": "/assets/images/Pixel9-Pro.jpg",
-      "rating": {
-        "rate": 3,
-        "count": 400
-      }
-    },
-    {
-      "id": 8,
-      "title": "Iphone-13",
-      "price": 699,
-      "description": "The iPhone is a line of smartphones designed and marketed by Apple Inc. It features a sleek design, advanced camera capabilities, and a user-friendly interface.",
-      "category": "phones",
-      "image": "/assets/images/Iphone.jpg",
-      "rating": {
-        "rate": 1.9,
-        "count": 100
-      }
-    },
-    {
-      "id": 9,
-      "title": "Redmi-Note 11",
-      "price": 199,
-      "description": "Redmi Note 11 Pro+ 5G, Memory Global Version 8GB RAM 256GB ROM, 120Hz AMOLED Display, MediaTek Dimensity 920, 108MP Camera, 4500mAh Battery, NFC",
-      "category": "phones",
-      "image": "/assets/images/Redmi_Note_11.jpg",
-      "rating": {
-        "rate": 3.3,
-        "count": 203
-      }
-    },
-    {
-      "id": 10,
-      "title": "Redmi-Note 12",
-      "price": 299,
-      "description": "Redmi Note 12 5G | 4GB RAM | 128GB ROM | 6.67'' AMOLED DotDisplay | 48MP AI Triple Camera | 5000mAh Battery | NFC | Graphite Gray",
-      "category": "phones",
-      "image": "/assets/images/Redmi-Phone2.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 470
-      }
-    },
-    {
-      "id": 11,
-      "title": "Samsung-S23-Ultra",
-      "price": 1199,
-      "description": "Samsung Galaxy S23 Ultra 5G | Factory Unlocked Android Cell Phone | US Version 4G LTE | Pro-Grade Camera, 200MP + 12MP + 10MP + 10MP | 8K Video | Long-Lasting Battery | Green, 256GB",
-      "category": "phones",
-      "image": "/assets/images/Samsung-S23-Ultra.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 319
-      }
-    },
-    {
-      "id": 12,
-      "title": "PC-Case",
-      "price": 109.99,
-      "description": "PC Case Computer Case Gaming Case ATX Mid Tower with Side Panel Window, 2 USB Ports, 1 RGB Fan, 4 Expansion Slots, 2.5\"/3.5\" Drive Bays for Gaming or Office Use (Black)",
-      "category": "electronics",
-      "image": "/assets/images/pc-case.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 400
-      }
-    },
-    {
-      "id": 13,
-      "title": "Printer",
-      "price": 199.99,
-      "description": "Epson EcoTank ET-2760 All-in-One Wireless Color Printer, Copier, Scanner, Fax, Cartridge-Free Supertank Printer, Easy Setup, PC-Free, Alexa Voice-Activated, Mobile Printing",
-      "category": "electronics",
-      "image": "/assets/images/Printer.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 250
-      }
-    },
-    {
-      "id": 14,
-      "title": "Monitor-1",
-      "price": 999.99,
-      "description": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin Zero Frame Monitor (HDMI & VGA port) - Black",
-      "category": "monitors",
-      "image": "/assets/images/Monitor1.jpg",
-      "rating": {
-        "rate": 2.2,
-        "count": 140
-      }
-    },
-    {
-      "id": 15,
-      "title": "Monitor-2",
-      "price": 199.99,
-      "description": "Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor, Super Ultra Wide Dual WQHD 5120 x 1440",
-      "category": "monitors",
-      "image": "/assets/images/Monitor2.jpg",
-      "rating": {
-        "rate": 2.6,
-        "count": 235
-      }
-    },
-    {
-      "id": 16,
-      "title": "Monitor-3",
-      "price": 109.99,
-      "description": "LG 27GL650F-B 27 Inch Full HD Gaming Monitor, IPS, 1ms Response Time, 144Hz Refresh Rate, G-SYNC Compatible, FreeSync Premium, HDMI, DisplayPort, VESA Certified",
-      "category": "monitors",
-      "image": "/assets/images/Monitor3.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 340
-      }
-    },
-    {
-      "id": 17,
-      "title": "Monitor-4",
-      "price": 56.99,
-      "description": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-      "category": "monitors",
-      "image": "/assets/images/Monitor4.jpg",
-      "rating": {
-        "rate": 3.8,
-        "count": 679
-      }
-    },
-    {
-      "id": 18,
-      "title": "Monitor-5",
-      "price": 999.99,
-      "description": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED",
-      "category": "monitors",
-      "image": "/assets/images/monitor5.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 130
-      }
-    },
-    {
-      "id": 19,
-      "title": "Monitor-6",
-      "price": 999.99,
-      "description": "Samsung 32 Inches Odyssey G7 Series Gaming Monitor WQHD 2560x1440 240Hz 1ms Curved LED G-Sync Compatible",
-      "category": "monitors",
-      "image": "/assets/images/Monitor6.jpg",
-      "rating": {
-        "rate": 4.5,
-        "count": 146
-      }
-    },
-    {
-      "id": 20,
-      "title": "Google Pixel - Black",
-      "price": 799,
-      "description": "Google Pixel - Black, 128GB, Factory Unlocked, GSM Only",
-      "category": "phones",
-      "image": "/assets/images/Google-Phone.jpg",
-      "rating": {
-        "rate": 3.6,
-        "count": 145
-      }
+  {
+    "id": 1,
+    "title": "Laptop Backpack",
+    "price": 34.99,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "accessories",
+    "image": "/assets/images/Laptop_Backpack.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
     }
-  ]
+  },
+  {
+    "id": 2,
+    "title": "ASUS Laptop",
+    "price": 49.99,
+    "description": "A lightweight laptop suitable for all your computing needs. Features a sleek design, long battery life, and high-resolution display.",
+    "category": "laptops",
+    "image": "/assets/images/Asus_Laptop.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Lenovo Laptop",
+    "price": 55.99,
+    "description": "The Lenovo IdeaPad 3 is a budget-friendly laptop that offers solid performance for everyday tasks. It features a 15.6-inch display, AMD Ryzen processor, and ample storage.",
+    "category": "laptops",
+    "image": "/assets/images/Lenovo_Laptop.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Ex SSD",
+    "price": 15.99,
+    "description": "USB 3.0 Portable External Hard Drive; 2.5 Inch, 1TB, Black",
+    "category": "electronics",
+    "image": "/assets/images/Ex-SSD.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "Mouse",
+    "price": 10.99,
+    "description": "Wireless Mouse for Laptop, Computer",
+    "category": "electronics",
+    "image": "/assets/images/Mouse.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Keybord",
+    "price": 29.99,
+    "description": " Mechanical Gaming Keyboard, RGB Backlit Wired Keyboard",
+    "category": "electronics",
+    "image": "/assets/images/Keybord.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "Pixel9-Pro",
+    "price": 799,
+    "description": "The Pixel 9 Pro is a premium smartphone with a stunning display, powerful camera system, and smooth performance.",
+    "category": "phones",
+    "image": "/assets/images/Pixel9-Pro.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Iphone-13",
+    "price": 699,
+    "description": "The iPhone is a line of smartphones designed and marketed by Apple Inc. It features a sleek design, advanced camera capabilities, and a user-friendly interface.",
+    "category": "phones",
+    "image": "/assets/images/Iphone.jpg",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "Redmi-Note 11",
+    "price": 199,
+    "description": "Redmi Note 11 Pro+ 5G, Memory Global Version 8GB RAM 256GB ROM, 120Hz AMOLED Display, MediaTek Dimensity 920, 108MP Camera, 4500mAh Battery, NFC",
+    "category": "phones",
+    "image": "/assets/images/Redmi_Note_11.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "Redmi-Note 12",
+    "price": 299,
+    "description": "Redmi Note 12 5G | 4GB RAM | 128GB ROM | 6.67'' AMOLED DotDisplay | 48MP AI Triple Camera | 5000mAh Battery | NFC | Graphite Gray",
+    "category": "phones",
+    "image": "/assets/images/Redmi-Phone2.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "Samsung-S23-Ultra",
+    "price": 1199,
+    "description": "Samsung Galaxy S23 Ultra 5G | Factory Unlocked Android Cell Phone | US Version 4G LTE | Pro-Grade Camera, 200MP + 12MP + 10MP + 10MP | 8K Video | Long-Lasting Battery | Green, 256GB",
+    "category": "phones",
+    "image": "/assets/images/Samsung-S23-Ultra.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "PC-Case",
+    "price": 109.99,
+    "description": "PC Case Computer Case Gaming Case ATX Mid Tower with Side Panel Window, 2 USB Ports, 1 RGB Fan, 4 Expansion Slots, 2.5\"/3.5\" Drive Bays for Gaming or Office Use (Black)",
+    "category": "electronics",
+    "image": "/assets/images/pc-case.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 13,
+    "title": "Printer",
+    "price": 199.99,
+    "description": "Epson EcoTank ET-2760 All-in-One Wireless Color Printer, Copier, Scanner, Fax, Cartridge-Free Supertank Printer, Easy Setup, PC-Free, Alexa Voice-Activated, Mobile Printing",
+    "category": "electronics",
+    "image": "/assets/images/Printer.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  },
+  {
+    "id": 14,
+    "title": "Monitor-1",
+    "price": 999.99,
+    "description": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin Zero Frame Monitor (HDMI & VGA port) - Black",
+    "category": "monitors",
+    "image": "/assets/images/Monitor1.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 15,
+    "title": "Monitor-2",
+    "price": 199.99,
+    "description": "Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor, Super Ultra Wide Dual WQHD 5120 x 1440",
+    "category": "monitors",
+    "image": "/assets/images/Monitor2.jpg",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 16,
+    "title": "Monitor-3",
+    "price": 109.99,
+    "description": "LG 27GL650F-B 27 Inch Full HD Gaming Monitor, IPS, 1ms Response Time, 144Hz Refresh Rate, G-SYNC Compatible, FreeSync Premium, HDMI, DisplayPort, VESA Certified",
+    "category": "monitors",
+    "image": "/assets/images/Monitor3.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  },
+  {
+    "id": 17,
+    "title": "Monitor-4",
+    "price": 56.99,
+    "description": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "category": "monitors",
+    "image": "/assets/images/Monitor4.jpg",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 18,
+    "title": "Monitor-5",
+    "price": 999.99,
+    "description": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED",
+    "category": "monitors",
+    "image": "/assets/images/monitor5.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 19,
+    "title": "Monitor-6",
+    "price": 999.99,
+    "description": "Samsung 32 Inches Odyssey G7 Series Gaming Monitor WQHD 2560x1440 240Hz 1ms Curved LED G-Sync Compatible",
+    "category": "monitors",
+    "image": "/assets/images/Monitor6.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
+  },
+  {
+    "id": 20,
+    "title": "Google Pixel - Black",
+    "price": 799,
+    "description": "Google Pixel - Black, 128GB, Factory Unlocked, GSM Only",
+    "category": "phones",
+    "image": "/assets/images/Google-Phone.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  }
+]
