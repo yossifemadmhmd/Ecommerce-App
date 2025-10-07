@@ -11,6 +11,6 @@ import { environment } from '../../environments/environment';
 export class ApiProducts {
   constructor(private httpClient:HttpClient){}
   fetchProducts():Observable<IProduct[]>{
-    return this.httpClient.get<IProduct[]>(`${environment.BaseUrl}/products`);
+    return this.httpClient.get<IProduct[]>(`./assets/db.json`);
   }
 }
